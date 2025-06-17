@@ -1,0 +1,77 @@
+[
+  {
+    "id": "daad5b3f-184b-4a84-8075-8a9df40eac36",
+    "sender": "user",
+    "text": "Hey what is the largest country in the world?",
+    "file": null,
+    "timestamp": "2025-06-05T19:34:26.795770Z"
+  },
+  {
+    "id": "c7090d4f-1db9-41a0-9a7a-5dc94143ea5e",
+    "sender": "bot",
+    "text": "The largest country in the world is Russia, covering approximately 17.1 million square kilometers (6.6 million square miles).",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-05T19:34:31.344735Z"
+  },
+  {
+    "id": "0bbedfa9-165b-4037-9dc4-e97158f40c17",
+    "sender": "user",
+    "text": "Whats the capital of that country?",
+    "file": null,
+    "timestamp": "2025-06-05T19:34:38.283170Z"
+  },
+  {
+    "id": "9c09cd10-9266-458d-9650-3b6f80ffbde4",
+    "sender": "bot",
+    "text": "The capital of Russia is Moscow.",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-05T19:34:40.776325Z"
+  },
+  {
+    "id": "19d2dc0c-e164-4678-bf60-1446a9f5e244",
+    "sender": "user",
+    "text": "Fetch me an image of cute cats",
+    "file": null,
+    "timestamp": "2025-06-05T19:34:48.873381Z"
+  },
+  {
+    "id": "60dac56b-cb78-4494-8a0b-9561a35f51ce",
+    "sender": "bot",
+    "text": "Here is an image for 'cute cats pictures'.",
+    "image": "https://i.pinimg.com/736x/18/4b/97/184b973611e8456b4d6e384795047123.jpg",
+    "file": null,
+    "timestamp": "2025-06-05T19:34:52.166343Z"
+  },
+  {
+    "id": "1485ba52-f637-4e1b-aa70-f7298c9acc78",
+    "sender": "user",
+    "text": "What do you like about cats?",
+    "file": null,
+    "timestamp": "2025-06-05T19:35:35.050323Z"
+  },
+  {
+    "id": "6ed4cf11-f068-4fb7-8ca5-bf31d082690e",
+    "sender": "bot",
+    "text": "I'm a large language model, I don't have personal preferences or feelings, but many people enjoy cats because of their affectionate and playful personalities. Cats are also known for their independence and low-maintenance care, making them a popular pet choice for many households.",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-05T19:35:38.070298Z"
+  },
+  {
+    "id": "1d574373-1674-4421-a797-13185375abfb",
+    "sender": "user",
+    "text": "Fetch me an image of dogs now",
+    "file": null,
+    "timestamp": "2025-06-05T19:35:48.050176Z"
+  },
+  {
+    "id": "7d241c7f-8ead-46c1-9c08-200413cd0cf7",
+    "sender": "bot",
+    "text": "Here is an image for 'cute dogs pictures'.",
+    "image": "https://images.pexels.com/photos/248307/pexels-photo-248307.jpeg?cs=srgb&amp;dl=pexels-pixabay-248307.jpg&amp;fm=jpg",
+    "file": null,
+    "timestamp": "2025-06-05T19:35:51.384926Z"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "f23c09eb-6b9a-441e-93de-b1f25b0ce300",
+    "sender": "user",
+    "text": "Could you explain what a bandpass filter does in a radar circuit?",
+    "file": {
+      "filename": "BandpassFilter_RF.png",
+      "stored_as": "4f928aa8b6f746d088f6d7f53b112ad3.png",
+      "content_type": "image/png",
+      "size": 41873
+    },
+    "timestamp": "2025-06-12T12:05:41.784Z"
+  },
+  {
+    "id": "a93bdf42-3e3d-4e19-b16a-2e5a90ea7db1",
+    "sender": "bot",
+    "text": "<p>A <strong>bandpass filter</strong> allows only a specific range of frequencies to pass through while blocking others. In radar systems, it helps isolate the signal of interest by removing unwanted noise or out-of-band signals.</p><p>This ensures cleaner processing and prevents interference from nearby frequencies.</p>",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-12T12:05:43.120Z"
+  },
+  {
+    "id": "50e69dbf-4b80-4a8a-8b17-12cfe9cb5d4f",
+    "sender": "user",
+    "text": "Is it usually placed before or after amplification?",
+    "file": null,
+    "timestamp": "2025-06-12T12:06:02.498Z"
+  },
+  {
+    "id": "c83a3bcd-2933-43d1-b194-7121fe7387a6",
+    "sender": "bot",
+    "text": "<p>It's often placed <span style=\"color:#388e3c\">after the low noise amplifier</span> to clean up the signal before further processing.</p><p>That way, even the small signals get boosted first and then filtered, improving overall signal quality.</p>",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-12T12:06:04.055Z"
+  },
+  {
+    "id": "e51d9d29-f4a2-4037-88f8-b733fbd6ab11",
+    "sender": "user",
+    "text": "Could I get a circuit diagram of one?",
+    "file": null,
+    "timestamp": "2025-06-12T12:06:21.314Z"
+  },
+  {
+    "id": "ddc0873e-08cb-4f0a-9a91-5c39cd6e5c89",
+    "sender": "bot",
+    "text": "Here’s a simple bandpass filter diagram used in RF front ends.",
+    "image": "https://www.allaboutcircuits.com/uploads/articles/capacitive-band-pass-filter-circuit.png",
+    "file": null,
+    "timestamp": "2025-06-12T12:06:23.029Z"
+  }
+]
