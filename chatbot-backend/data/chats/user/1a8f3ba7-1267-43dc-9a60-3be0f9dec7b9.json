@@ -1,0 +1,77 @@
+[
+  {
+    "id": "2bf4c227-0e74-432e-a455-f9d2deeafc72",
+    "sender": "user",
+    "text": "There is a video selection error, what do I do?",
+    "file": {
+      "filename": "Flowchart (1).png",
+      "stored_as": "b90d5a91709a4910afc39cb58709bd9f.png",
+      "content_type": "image/png",
+      "size": 137030
+    },
+    "timestamp": "2025-06-18T12:31:30.027685Z"
+  },
+  {
+    "id": "ca1a6c60-1316-4f4b-a0b3-294e464f70ff",
+    "sender": "bot",
+    "text": "If an error appears on the display about <b>video playback</b>, <b>video selection</b>, or <b>display settings</b>, refer to <b>Part 6B(2), Section 9, Chapter 1</b> for troubleshooting steps and technical guidance. This section has step-by-step instructions for issues like <i>signal loss</i>, <i>synchronization errors</i>, <i>improper configuration</i>, or <i>hardware connection faults</i>. It also explains <b>error codes</b>, suggests diagnostic checks, and lists corrective actions to restore video function. Using this section helps address underlying video problems systematically and per manufacturer standards.",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-18T12:31:38.049533Z"
+  },
+  {
+    "id": "d291d36e-2293-4050-ab53-d8bb1439f5e8",
+    "sender": "user",
+    "text": "When should I refer part 6B(2) section 9 chapter 1 according to this flowchart?",
+    "file": {
+      "filename": "Flowchart (2).png",
+      "stored_as": "5b4e3837f8f24000a8550d8b4fd3b3dc.png",
+      "content_type": "image/png",
+      "size": 175859
+    },
+    "timestamp": "2025-06-18T12:32:44.159063Z"
+  },
+  {
+    "id": "1f9df1cf-0e37-45da-8c6d-f7abd47935d5",
+    "sender": "bot",
+    "text": "The flowchart shows to check <b>Part 6B(2), Section 9, Chapter 1</b> if:<br><ul><li>- The <b>antenna does not rotate normally</b> or is unstable. This may mean issues with the drive, stabilization, or signal processing.</li><br><li>- A <b>rotating sweep</b> appears on the display, suggesting video sync, timing, or input signal errors are present.</li></ul><br>This section gives diagnostic steps and actions for video issues and proper sync between antenna and display.",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-18T12:32:49.216760Z"
+  },
+  {
+    "id": "fa3f7421-8115-4116-9dbe-3fb5fe41fdef",
+    "sender": "user",
+    "text": "What are the precautions to be taken while handling vacuum tubes according to safety instructions in chapter 2?",
+    "file": {
+      "filename": "Book6-Part 6B Fault Finding.pdf",
+      "stored_as": "da44b21d23304d6794fe79d0e2841de8.pdf",
+      "content_type": "application/pdf",
+      "size": 9952422
+    },
+    "timestamp": "2025-06-18T12:33:20.805999Z"
+  },
+  {
+    "id": "bf1d89dd-49b8-4bc9-9ade-5a58f4d263c4",
+    "sender": "bot",
+    "text": "Per <b>safety instructions in Chapter 2</b>, follow these when handling <b>vacuum tubes</b> to avoid injury:<ul><li>- <b>Store safely:</b> Keep tubes in original packaging to prevent damage and implosion.</li><br><li>- <b>Wear gear:</b> Use leather gloves, face mask, and apron for protection.</li><br><li>- <b>Handle gently:</b> Don't lift tubes by the neck or fragile parts.</li><br><li>- <b>Discharge first:</b> If used in high-voltage, discharge several times before touching.</li><br><li>- <b>Soft surface:</b> Place tubes on cushioned surfaces to avoid cracks.</li><br><li>- <b>Position CRTs:</b> If possible, keep CRT screens facing down to reduce risk.</li><br><li>- <b>Transport securely:</b> Use empty original packaging to move used tubes for disposal.</li></ul>",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-18T12:33:35.869435Z"
+  },
+  {
+    "id": "a878f7b5-05ec-4e17-9b96-95e3f34b4243",
+    "sender": "user",
+    "text": "What is the purpose of system parameter test in part 6B(3) of this manual?",
+    "file": null,
+    "timestamp": "2025-06-18T12:34:08.460162Z"
+  },
+  {
+    "id": "d679d62f-4045-4b5f-bccc-6c7ac96c3696",
+    "sender": "bot",
+    "text": "The System Parameter Test checks if key system parameters\u2014like <b>frequencies</b>, <b>timing signals</b>, and controls\u2014are within limits. It confirms system operation after maintenance or during troubleshooting. This test helps find faults and ensures all parts work, as described in <b>Section 3.2, Chapter 4, Paragraph 3.17</b>.",
+    "image": null,
+    "file": null,
+    "timestamp": "2025-06-18T12:34:13.512452Z"
+  }
+]
